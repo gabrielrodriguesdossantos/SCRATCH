@@ -9,7 +9,8 @@ Gabriel Rodrigues dos santos
 - [Conversor de temperatura](https://scratch.mit.edu/projects/882610727/)
 - [Boletim](https://scratch.mit.edu/projects/881963669/)
 - [Regra de três](https://scratch.mit.edu/projects/882627729/)
-- [milhas-km](https://scratch.mit.edu/projects/884617896/)
-- [app](https://scratch.mit.edu/projects/885324218/)
-- 
+- [milhas-km](https://scratch.mit.edu/projects/885326684/editor/)
+- [](https://scratch.mit.edu/projects/885324218/)
+- [valor de horas](https://scratch.mit.edu/projects/884965295/editor/)
+- [libras-kg](https://scratch.mit.edu/projects/885326423/)
   
