@@ -15,4 +15,4 @@ Gabriel Rodrigues dos santos
 - [libras-kg](https://scratch.mit.edu/projects/885326423/)
 
   ## hora do codigo
-  ![A Hora Do Código]()
+  ![A Hora Do Código](https://github.com/gabrielrodriguesdossantos/SCRATCH/blob/main/assets/icons/Gabriel.jpg)
