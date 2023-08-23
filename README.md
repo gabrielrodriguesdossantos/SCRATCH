@@ -7,3 +7,7 @@ Gabriel Rodrigues dos santos
 ## Projetos
 - [Cálculo da média](https://scratch.mit.edu/projects/881963669/)
 - [Conversor de temperatura](https://scratch.mit.edu/projects/882610727/)
+- [Boletim](https://scratch.mit.edu/projects/881963669/)
+- [Regra de três](https://scratch.mit.edu/projects/882627729/)
+- [milhas-km](https://scratch.mit.edu/projects/884617896/)
+  
