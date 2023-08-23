@@ -13,4 +13,4 @@ Gabriel Rodrigues dos santos
 - [atividade](https://scratch.mit.edu/projects/885324218/)
 - [valor de horas](https://scratch.mit.edu/projects/884965295/editor/)
 - [libras-kg](https://scratch.mit.edu/projects/885326423/)
-  
+  ![A Hora Do Código](https://github.com/gabrielrodriguesdossantos/SCRATCH/blob/main/assets/icons/Code.pdf)
