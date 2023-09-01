@@ -9,12 +9,13 @@ Gabriel Rodrigues dos santos
 - [Conversor de temperatura](https://scratch.mit.edu/projects/882610727/)
 - [Boletim](https://scratch.mit.edu/projects/881963669/)
 - [Regra de três](https://scratch.mit.edu/projects/882627729/)
-- [milhas-km](https://scratch.mit.edu/projects/885326684/editor/)
+- [milhas-km](https://scratch.mit.edu/projects/885326684/)
 - [atividade](https://scratch.mit.edu/projects/885324218/)
-- [valor de horas](https://scratch.mit.edu/projects/884965295/editor/)
+- [valor de horas](https://scratch.mit.edu/projects/884965295/)
 - [libras-kg](https://scratch.mit.edu/projects/885326423/)
-- [Gasolina-x-Alcool](https://scratch.mit.edu/projects/887233496/editor)
-- [AND](https://scratch.mit.edu/projects/888055232/editor/)
+- [Gasolina-x-Alcool](https://scratch.mit.edu/projects/887233496/)
+- [AND](https://scratch.mit.edu/projects/888055232/)
+- [NOT](https://scratch.mit.edu/projects/888055232/)
 
   ## hora do codigo
   ![A Hora Do Código](https://github.com/gabrielrodriguesdossantos/SCRATCH/blob/main/assets/icons/Gabriel.jpg)
