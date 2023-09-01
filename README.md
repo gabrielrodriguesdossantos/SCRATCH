@@ -14,6 +14,7 @@ Gabriel Rodrigues dos santos
 - [valor de horas](https://scratch.mit.edu/projects/884965295/editor/)
 - [libras-kg](https://scratch.mit.edu/projects/885326423/)
 - [Gasolina-x-Alcool](https://scratch.mit.edu/projects/887233496/editor)
+- [AND](https://scratch.mit.edu/projects/888055232/editor/)
 
   ## hora do codigo
   ![A Hora Do Código](https://github.com/gabrielrodriguesdossantos/SCRATCH/blob/main/assets/icons/Gabriel.jpg)
