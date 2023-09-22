@@ -18,7 +18,7 @@ Gabriel Rodrigues dos santos
 - [NOT](https://scratch.mit.edu/projects/888055232/)
 - [Conversor de medida](https://scratch.mit.edu/projects/888449974/)
 - [URNA](https://scratch.mit.edu/projects/889252731/)
-- NAVE - (https://scratch.mit.edu/projects/896357934/)
+- [ATARI FINALIZADO](https://scratch.mit.edu/projects/896357934/)
 
   ## hora do codigo
   ![A Hora Do Código](https://github.com/gabrielrodriguesdossantos/SCRATCH/blob/main/assets/icons/Gabriel.jpg)
